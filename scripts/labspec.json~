@@ -98,7 +98,7 @@
                 "Electronics & Communications"
             ], 
             "id": "ece21", 
-            "integration_level": 5, 
+            "integration_level": 3, 
             "name": "Queueing Networks Modelling Lab", 
             "server-side": true, 
             "status": "Released", 
