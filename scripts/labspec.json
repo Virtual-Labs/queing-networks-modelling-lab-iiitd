@@ -107,9 +107,9 @@
         "runtime_requirements": {
             "platform": {
                 "arch": "i386", 
-                "hosting": "dedicated", 
+                "hosting": "dedicated",
                 "installer": ["sudo apt-get update",
-                "sudo apt-get install -y java apache2"], 
+                "sudo apt-get install -y apache2"], 
                 "lab_actions": {
                     "backup": [], 
                     "clean": [], 
