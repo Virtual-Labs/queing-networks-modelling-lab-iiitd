@@ -1,0 +1,31 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the links in the Getting Started page of Queuing Networks Modelling Lab
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd/blob/master/test-cases/integration_test-cases/System/Queuing Networks Modelling_01_Usability_smk.org][Queuing Networks Modelling_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the “Getting Started” link 
+  2. It should re-direct to the Getting Started page
+  3. Click on the links displayed in the Getting Started page
+
+* Expected result
+  1. Getting Started page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. A new tab should be opened with the selected link
+  4. Content should be present with no distortions and Junk characters
+
+* Review/comments
+
+

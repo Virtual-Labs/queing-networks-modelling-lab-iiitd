@@ -1,0 +1,35 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To Simulate the “Discrete time Experiments” experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd/blob/master/test-cases/integration_test-cases/Discrete time Experiments/Discrete time Experiments_01_Usability_smk.org][Discrete time Experiments_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the “Live Simulation of Discrete time single server - infinite capacity model” link 
+  2. It should re-direct to the simulation page
+  3. Enter the arival and departure probability values and choose the type of queuing and click on the appropriate radio button
+  4. Click on start button
+  5. While the simulation is running , click on the pause button
+  6. click on the play button and now click on the reset button
+
+* Expected result
+  1. Simulation page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. The simulation result should be displayed on the screen
+  4. The simulation graph should be paused and when we click on the play button the graph should start 
+  5. When we click on the reset button , the simulation result, graph and the entered values should be erased from the screen
+
+* Review/comments
+
+

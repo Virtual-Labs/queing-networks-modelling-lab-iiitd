@@ -1,0 +1,31 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To Simulate the “Tandem Queue with feedback” experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/queueing-networks-modelling-lab-iitd/blob/master/test-cases/integration_test-cases/Tandem Queue with feedback/Tandem Queue with feedback_01_Usability_smk.org][Tandem Queue with feedback_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the “Live Simulation of Three Node Tandem Queue with feedback” link 
+  2. It should re-direct to the simulation page
+  3. Don't enter input and output parameter values
+  4. Click on start button
+
+* Expected result
+  1. Simulation page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. An error message should be displayed on the screen as to enter the input and output parameter values
+
+* Review/comments
+
+
